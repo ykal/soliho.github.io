@@ -1185,3 +1185,17 @@ a.scrollup:hover{
 	background-color:#ddd;
 	color:#710F17;
 }
+
+/*  custom  */
+body > header > nav > div {
+  margin-bottom: 20px;
+}
+.dropdown-menu>li>a:hover {
+  background: #710F17;
+  color: white;
+}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+  border-color: white;
+  background: #e3e3e3;
+}
+
