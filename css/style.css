@@ -1199,3 +1199,6 @@ body > header > nav > div {
   background: #e3e3e3;
 }
 
+body > header > nav > div > div > div.navbar-collapse.collapse > div > ul > li:nth-child(n){
+  cursor: pointer;
+}
